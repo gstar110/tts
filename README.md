@@ -1,3 +1,7 @@
+★ 2026/9/10 新增/v1/audio/speech-with-timings接口，返回音频 + WordBoundary 时间戳的端点（用于精确朗读高亮）
+
+---
+
 # 🎙️ VoiceCraft - AI驱动的语音处理平台
 
 一个功能强大的AI语音处理平台，集成了文字转语音(TTS)和语音转文字(STT)双向功能。基于Microsoft Edge TTS和硅基流动API，支持20+种语音选项，为用户提供完整的语音处理解决方案。
